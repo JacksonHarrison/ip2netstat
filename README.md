@@ -10,19 +10,19 @@ Sign up at https://www.ip2location.com/web-service to get a web service API Key.
 
 Usage parameters
 ================
-1.[-k API Key]
+### [-k API Key]
 This parameter is used to display the address along with the geolocated country code and country name.
 
-2.[-n]
+### [-n]
 This parameter is used to display the address in numerical form.
 
-3.[-c]
+### [-c]
 This parameter works with "-k API Key" where you can color the result based on the country code(s) that
 you have specified.
 
 For example, -c "US" or -c "US|MY"
 
-4.[-f]
+### [-f]
 This parameter works with "-k API Key" where you can filter the result based on the country code(s) that 
 you have specified.
 
